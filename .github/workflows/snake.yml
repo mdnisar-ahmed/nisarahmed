@@ -15,6 +15,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: mdnisar-ahmed
+          # include both public and private contributions
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake.svg
       - name: Push snake.svg to output branch
