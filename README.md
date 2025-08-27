@@ -54,7 +54,3 @@
   <a href="https://nisarportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"></a>
 </p>
 
-<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6?logo=microsoftazure&logoColor=white">
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
