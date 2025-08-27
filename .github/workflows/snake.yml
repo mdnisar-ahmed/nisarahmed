@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write    # allow the action to push to the repo
+  contents: write
 
 jobs:
   build:
@@ -15,8 +15,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: mdnisar-ahmed
-          # include both public and private contributions
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SNAKE_TOKEN }}   # use personal token
           outputs: |
             dist/snake.svg
       - name: Push snake.svg to output branch
