@@ -44,7 +44,7 @@ const skills = {
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> <!-- General stats --> <img src="https://github-readme-stats.vercel.app/api?username=mdnisar-ahmed&show_icons=true&hide_title=true" height="150" /> <!-- Top languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnisar-ahmed&layout=compact" height="150" /> </p> <!-- contribution snake (animated) - will appear after enabling the action below --> <p align="center"> <img src="https://raw.githubusercontent.com/nisarahmed/nisarahmed/output/snake.svg" alt="snake animation" /> </p>
+<p align="center"> <!-- General stats --> <img src="https://github-readme-stats.vercel.app/api?username=mdnisar-ahmed&show_icons=true&hide_title=true" height="150" /> <!-- Top languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnisar-ahmed&layout=compact" height="150" /> </p> <!-- contribution snake (animated) - will appear after enabling the action below --> <p align="center"> <img src="https://raw.githubusercontent.com/mdnisar-ahmed/nisarahmed/output/snake.svg" alt="snake animation" /> </p>
 
 
 ### 🌐 Connect With Me
