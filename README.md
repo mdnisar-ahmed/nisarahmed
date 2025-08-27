@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Nisar Ahmed 👋</h1>
 <p align="center">
-  💻 Full-Stack Developer | ☁️ Cloud-Native (Azure/AWS) | 🎯 Microsoft Certified: Azure Developer Associate
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73420&vCenter=true&width=435&lines=Hi%2C+I'm+Nisar+Ahmed+%F0%9F%91%8B;" alt="Typing SVG" />
+</p>
+<p align="center">
+  💻 Full-Stack .NET Developer | ☁️ Cloud-Native (Azure/AWS) | 🎯 Microsoft Certified: Azure Developer Associate
 </p>
 
 ---
@@ -11,16 +13,18 @@
 - Passionate about **clean code, cloud solutions, and CI/CD automation**  
 - Strong collaborator in **Agile/SCRUM teams**  
 
----
-
-### 🛠 Tech Stack
-
-**Backend:** C#, .NET Core, ASP.NET MVC, ASP.NET Core, Web API, Entity Framework, LINQ, ADO.NET, Microservices, Blazor  
-**Frontend:** React (JS/TS), Angular, Razor Pages, ASP.NET Web Forms, WPF (XAML/MVVM), HTML5, CSS3, Bootstrap, Telerik Kendo UI, WordPress  
-**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB  
-**Cloud:** Azure (App Services, AD, API Management), AWS (API Gateway, Cognito, Lambda, ECS, S3, CloudFront, CloudWatch, EC2, RDS)  
-**DevOps/Tools:** Git, GitHub, GitLab, Azure DevOps, Docker, Kubernetes, Jenkins, NUnit, xUnit, Selenium, Postman, Visual Studio  
-
+### 🧰 Tech Stack (as JS)
+```js
+const skills = {
+  code: ["C#", "Python", "Java", "TypeScript", "JavaScript"],
+  backend: [".NET Core", "ASP.NET Core", "Web API", "EF Core", "ADO.NET", "LINQ"],
+  frontend: ["React", "Angular"],
+  db: ["SQL Server", "PostgreSQL"],
+  cloud: ["Azure (App Services, AD)", "AWS (API Gateway, Cognito, S3, ECS, CloudFront)"],
+  devops: ["GitHub", "GitLab", "Azure DevOps", "Docker", "Kubernetes"],
+  certs: ["Microsoft Certified: Azure Developer Associate"]
+};
+```
 ---
 
 ### 📂 Featured Projects
@@ -40,12 +44,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnisar-ahmed&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnisar-ahmed&layout=compact&theme=dracula" height="150" />
-</p>
+<p align="center"> <!-- General stats --> <img src="https://github-readme-stats.vercel.app/api?username=mdnisar-ahmed&show_icons=true&hide_title=true" height="150" /> <!-- Top languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnisar-ahmed&layout=compact" height="150" /> </p> <!-- contribution snake (animated) - will appear after enabling the action below --> <p align="center"> <img src="https://raw.githubusercontent.com/nisarahmed/nisarahmed/output/snake.svg" alt="snake animation" /> </p>
 
----
 
 ### 🌐 Connect With Me
 <p>
